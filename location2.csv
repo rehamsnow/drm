@@ -1,0 +1,51 @@
+	Location	Frequency	Category	latitude	longitude
+0	Quezon City	150	Disaster Response	14.6510546	121.0486254
+1	Manila	145	Disaster Response	14.5904492	120.9803621
+2	Caloocan	140	Disaster Response	14.651348	120.9724002
+3	Valenzuela	135	Disaster Response	14.6916903	120.9694534
+4	Malabon	130	Disaster Response	14.6578504	120.9511261
+5	Navotas	125	Disaster Response	14.6571862	120.9479692
+6	Marikina	120	Disaster Response	14.6331084	121.0993541
+7	San Juan	115	Disaster Response	18.465299	-66.116666
+8	Mandaluyong	110	Disaster Response	14.5774392	121.0338973
+9	Rodriguez	105	Disaster Recovery	20.661266	-101.4727761
+10	San Mateo	100	Disaster Recovery	37.496904	-122.3330573
+11	Isabela	98	Disaster Recovery	17.0	122.0
+12	Cagayan	96	Disaster Recovery	18.0	121.833333
+13	Aurora	95	Disaster Recovery	41.7571701	-88.3147539
+14	Baguio	94	Disaster Recovery	16.4119905	120.5933719
+15	Bulacan	93	Disaster Recovery	15.0	121.083333
+16	Pampanga	92	Disaster Recovery	15.0519635	120.6445398
+17	Bataan	90	Disaster Preparedness	14.6436031	120.4657622
+18	Ilocos Norte	89	Disaster Preparedness	18.166667	120.75
+19	Ilocos Sur	88	Disaster Preparedness	17.2	120.5
+20	Nueva Vizcaya	86	Disaster Preparedness	16.35	121.13
+21	Apayao	85	Disaster Preparedness	18.12	121.19
+22	Kalinga	84	Disaster Preparedness	17.46	121.31
+23	Ifugao	82	Disaster Recovery	16.87	121.22
+24	Abra	80	Disaster Recovery	17.58	120.8
+25	La Union	79	Disaster Recovery	16.5735957	120.4089899
+26	Tarlac	78	Disaster Recovery	15.4937252	120.4964091
+27	Nueva Ecija	77	Disaster Recovery	15.583333	121.0
+28	Pangasinan	76	Disaster Mitigation	15.916667	120.333333
+29	Zambales	75	Disaster Mitigation	15.23	120.12
+30	Occidental Mindoro	73	Disaster Mitigation	13.0000021	120.9166666
+31	Rizal	72	Disaster Mitigation	14.65	121.25
+32	Cavite	71	Disaster Response	14.2554073	120.8671503
+33	Candon City	70	Disaster Response	17.2044187	120.45710381329818
+34	Dagupan	69	Disaster Response	16.043021	120.3337627
+35	Angeles City	66	Disaster Response	34.0536909	-118.242766
+36	Balagtas	64	Disaster Response	14.8177664	120.9083864
+37	Santiago	63	Disaster Recovery	-33.4377756	-70.6504502
+38	Laoag City	62	Disaster Recovery	18.1973235	120.5935433
+39	San Fernando	61	Disaster Recovery	36.4646672	-6.1983492
+40	Lingayen	60	Disaster Recovery	16.0206363	120.2307093
+41	Mount Province	59	Disaster Recovery	43.233084	-71.08749
+42	Mountain Province	58	Disaster Recovery	17.11	121.16
+43	Batanes	57	Disaster Recovery	20.6442465	121.8939456
+44	La Trinidad	56	Disaster Preparedness	16.4617181	120.5885189
+45	Palanan	55	Disaster Preparedness	17.0628683	122.4292704
+46	Baler	54	Disaster Preparedness	15.759086	121.5627247
+47	Dumaguete	53	Disaster Preparedness	9.3054777	123.3080446
+48	Taal	52	Disaster Preparedness	14.0106736	120.9985863
+49	Puerto Princesa	50	Disaster Preparedness	9.7398561	118.7438187
